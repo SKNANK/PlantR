@@ -1,0 +1,7 @@
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\bin\Debug\PlantRService.dll.config
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\bin\Debug\PlantRService.dll
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\bin\Debug\PlantRService.pdb
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\obj\Debug\PlantRService.csprojAssemblyReference.cache
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\obj\Debug\PlantRService.csproj.CoreCompileInputs.cache
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\obj\Debug\PlantRService.dll
+C:\Uni\UCN CS\Projects\PlantR\PlantR\Solution\PlantRSolution\PlantRService\obj\Debug\PlantRService.pdb
