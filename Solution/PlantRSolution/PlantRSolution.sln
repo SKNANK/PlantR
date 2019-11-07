@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantRService", "PlantRService\PlantRService.csproj", "{178158DC-349E-4EE9-AB5C-B61B8C24CC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178158DC-349E-4EE9-AB5C-B61B8C24CC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178158DC-349E-4EE9-AB5C-B61B8C24CC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178158DC-349E-4EE9-AB5C-B61B8C24CC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178158DC-349E-4EE9-AB5C-B61B8C24CC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F6EA3C-6D1D-4AF8-99F1-C2799973EF28}
+	EndGlobalSection
+EndGlobal
